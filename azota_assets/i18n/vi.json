@@ -1,5 +1,5 @@
 {
-  "lang_cms_common_loading": "Đang tải dữ liệu...",
+  "lang_cms_common_loading": "Đang tải dữ liệu, vui lòng đợi...",
   "lang_cms_common_previous": "Trước",
   "lang_cms_common_next": "Tiếp",
   "lang_cms_common_ok": "OK",
@@ -13,10 +13,10 @@
   "lang_cms_delete_class": "Bạn muốn xóa lớp",
   "lang_cms_delete_success": "Xóa thành công!",
   "lang_cms_utils_update_folder": "Chỉnh sửa Thư mục",
-  "lang_cms_utils_folder_name_required": "Cần phải nhập tên Folder",
+  "lang_cms_utils_folder_name_required": "Cần phải nhập tên Thư mục",
   "lang_cms_utils_update_folder_success": "Cập nhật thành công",
   "lang_cms_utils_create_folder": "Tạo thư mục",
-  "lang_cms_utils_folder_name": "Hãy nhập tên thư mục",
+  "lang_cms_utils_folder_name": "Vui lòng nhập tên thư mục",
   "lang_cms_utils_create_folder_success": "Tạo thư mục thành công!",
 
   "lang_cms_error_invalid_email_or_password": "Bạn nhập sai Email hoặc Mật khẩu",
@@ -29,11 +29,11 @@
   "lang_cms_error_lost_connect_to_server": "Kết nối tới Server lỗi",
 
   "lang_cms_notfoundpage_tool_title": "Admin | Trang không tồn tại",
-  "lang_cms_notfoundpage_tool_description": "Admin | Trang không tồn tại",
+  "lang_cms_notfoundpage_tool_description": "Admin | Trang không tồn tại hoặc không còn tồn tại",
   "lang_cms_notfoundpage_tool_image": "https://cdn.jsdelivr.net/gh/azota889/storage_public/azota_assets/images/404.png",
 
   "lang_cms_maintain_tool_title": "Hệ thống đang bảo trì",
-  "lang_cms_maintain_tool_description": "Hệ thống đang bảo trìi",
+  "lang_cms_maintain_tool_description": "Hệ thống đang bảo trì",
   "lang_cms_maintain_tool_image": "https://cdn.jsdelivr.net/gh/azota889/storage_public/azota_assets/images/404.png",
 
   "lang_cms_test_title": "Admin | Trang chủ",
@@ -48,7 +48,7 @@
   "lang_core_invalid_validation": "Dữ liệu sai",
   "lang_core_email_exists": "Email đã tồn tại",
   "lang_core_phone_exists": "SĐT này đã tồn tại. Tiến tới đăng nhập",
-  "lang_core_invalid_phone_or_password": "Sai số SĐT hoặc mật khẩu",
+  "lang_core_invalid_phone_or_password": "Sai SĐT hoặc mật khẩu",
   "lang_core_invalid_old_password": "Sai mật khẩu cũ",
   "lang_core_password_required": "Bạn phải điền mật khẩu",
   "lang_core_full_name_required": "Bạn phải điền tên",
@@ -264,7 +264,7 @@
   "lang_cms_auth_gzip_tool_title": "Công cụ hỗ trợ Gzip",
   "lang_cms_auth_gzip_tool_description": "Công cụ hỗ trợ Gzip",
 
-  "lang_core_this_api_is_maintain": "Hệ thống đang bảo trì chức năng này",
+  "lang_core_this_api_is_maintain": "Hiện tại hệ thống đang bảo trì chức năng này",
 
-  "lang_core_name_homework_length": "Tên bài tập không vượt qua 190 ký tự"
+  "lang_core_name_homework_length": "Tên của bài tập không phép được vượt quá 190 ký tự"
 }
